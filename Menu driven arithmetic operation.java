@@ -1,4 +1,4 @@
-//Grade Marks
+
 package quiz;
 import java.util.*;
 
